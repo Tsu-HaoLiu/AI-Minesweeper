@@ -5,7 +5,11 @@
 # AI-Minesweeper
 AI driven Minesweeper using Propositional Logic &amp; Knowledge Inference
 
+## Description
 
+Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field.
+
+This project includes an Artificial Intelligence companion! Using **Propositional Logic** and **Knowledge Inference**, the AI analyzes the board and checks whether a mine is located in the square. The more squares that are revealed, the better the AI becomes as they accumulated more and more knowledge with each move.
 
 
 ## Usage
