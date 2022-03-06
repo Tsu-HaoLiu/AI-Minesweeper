@@ -16,4 +16,5 @@ This project includes an Artificial Intelligence companion! Using **Propositiona
 
 ```
 pip3 install -r requirements.txt
+python3 minesweeper.py
 ```
