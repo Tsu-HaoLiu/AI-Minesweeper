@@ -18,3 +18,10 @@ This project includes an Artificial Intelligence companion! Using **Propositiona
 pip3 install -r requirements.txt
 python3 minesweeper.py
 ```
+
+
+## Releases
+
+- [Latest release v2022.6](https://github.com/Tsu-HaoLiu/AI-Minesweeper/releases/tag/v2022.6)
+- [Quick download](https://github.com/Tsu-HaoLiu/AI-Minesweeper/releases/download/v2022.6/minesweeper.exe)
+
