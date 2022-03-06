@@ -2,8 +2,8 @@
 [![made-with-pygame](https://img.shields.io/badge/Created%20with-Pygame-blue)](https://www.pygame.org/)
 
 
-# AI-Minesweeper
-AI driven Minesweeper using Propositional Logic &amp; Knowledge Inference
+# AI-Minesweeper Companion
+AI enhanced Minesweeper helper using Propositional Logic &amp; Knowledge Inference
 
 ## Description
 
